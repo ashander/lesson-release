@@ -22,7 +22,7 @@ All the issues are labeled for the type of work that it is (formatting, wording,
 
 ### Step 2: Select an issue to work on
 
-Depending on the time you have and what you’re interested in working on, pick an issue. In the issue conversation, add a comment that says that you’re working on that issue.
+Depending on the time you have and what you’re interested in working on, pick an issue. In the issue conversation, **add a comment** that says that you’re working on that issue.
 
 ### Step 3: Make the change needed to address the issue.
 
